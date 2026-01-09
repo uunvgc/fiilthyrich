@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "fiilthy",
+			"problemMatcher": [],
+			"label": "npm: dev - fiilthy",
+			"detail": "next dev",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
